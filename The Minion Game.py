@@ -1,4 +1,4 @@
-##
+## link of the Problem https://www.hackerrank.com/challenges/the-minion-game/problem
 def minion_game(string):
     vowels = 'AEIOU'
 
